@@ -64,7 +64,7 @@
    We should be able to improve on this once CSS Font Loading L3 becomes more
    widely available.
 */
-$preferred_font: 'Roboto', 'Helvetica', 'Arial', sans-serif !default;
+$preferred_font: 'Great Vibes', cursive !default;
 $performance_font: 'Helvetica', 'Arial', sans-serif !default;
 
 /* ==========  COLORS  ========== */
@@ -99,7 +99,7 @@ $color-primary-dark: $palette-indigo-700 !default;
 $color-accent: $palette-pink-A200 !default;
 
 // Our primary is dark, so use $color-dark-contrast for overlaid text.
-$color-primary-contrast: $color-light-contrast !default;
+$color-primary-contrast: $color-dark-contrast !default;
 // Our accent is dark, so use $color-dark-contrast for overlaid text.
 $color-accent-contrast: $color-light-contrast !default;
 
